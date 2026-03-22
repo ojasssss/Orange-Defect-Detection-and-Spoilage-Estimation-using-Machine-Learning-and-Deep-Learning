@@ -243,7 +243,7 @@ Possible improvements for this project include:
 📧 Email: ojasyeole1271@gmail.com  
 
 🔗 LinkedIn  
-https://linkedin.com/in/ojas-yeole-0a1b82209  
+https://www.linkedin.com/in/ojasyeole/
 
 💻 GitHub  
 https://github.com/ojasssss  
